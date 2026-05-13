@@ -9,14 +9,14 @@
 当前版本：
 
 ```text
-v0.1.3
+v0.1.4
 ```
 
 ## 安装
 
 ```bash
 # 安装当前稳定版本
-go get github.com/wangmings/go-rainbow@v0.1.3
+go get github.com/wangmings/go-rainbow@v0.1.4
 ```
 
 ## 功能概览
@@ -390,7 +390,7 @@ go test ./...
 pkg.go.dev 文档地址：
 
 ```text
-https://pkg.go.dev/github.com/wangmings/go-rainbow@v0.1.3
+https://pkg.go.dev/github.com/wangmings/go-rainbow@v0.1.4
 ```
 
 ## 命令行 Demo
